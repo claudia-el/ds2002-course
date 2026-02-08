@@ -1,0 +1,7 @@
+The search pattern boldest was found 2 time(s)
+The search pattern hello was found 0 time(s)
+The search pattern hello was found 0 time(s)
+The search pattern boldest was found 2 time(s)
+The search pattern over was found 311 time(s)
+The search pattern and was found 3799 time(s)
+The search pattern a was found 38671 time(s)
