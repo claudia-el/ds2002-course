@@ -71,7 +71,7 @@ def transform(json_file):
     return df
 
 
-def load(df):
+def load(df): #parameter for name of CSV file?
 
     csv_file = get_output_file()
 
