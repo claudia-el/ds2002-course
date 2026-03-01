@@ -43,6 +43,7 @@ def extract():
             
         with open(filename, 'w') as f:
             json.dump(iss_data, f, indent=2)
+        
         logging.info(f"Extracted raw data and saved to {filename}")
 
         return filename
