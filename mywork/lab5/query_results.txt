@@ -1,0 +1,4 @@
+first_name	last_name	shift_date	manager	hours
+Alice	Robbins	2026-10-01	Mincer	12
+Daniel	Levinson	2026-05-03	Mincer	9
+Fontaine	Price	2026-01-03	Mincer	10
