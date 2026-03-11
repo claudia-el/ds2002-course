@@ -1,0 +1,56 @@
+JobID           JobName  Partition    Account  AllocCPUS      State ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+10172595     process_b+ standard-+     ds2002          1     FAILED      1:0 
+10172595.ba+      batch                ds2002          1     FAILED      1:0 
+10172681     process_b+ standard-+     ds2002          1  COMPLETED      0:0 
+10172681.ba+      batch                ds2002          1  COMPLETED      0:0 
+10172726_1   process_b+ standard-+     ds2002          1     FAILED      1:0 
+10172726_1.+      batch                ds2002          1     FAILED      1:0 
+10172726_2   process_b+ standard-+     ds2002          1     FAILED      1:0 
+10172726_2.+      batch                ds2002          1     FAILED      1:0 
+10172726_3   process_b+ standard-+     ds2002          1     FAILED      1:0 
+10172726_3.+      batch                ds2002          1     FAILED      1:0 
+10172726_4   process_b+ standard-+     ds2002          1     FAILED      1:0 
+10172726_4.+      batch                ds2002          1     FAILED      1:0 
+10172726_5   process_b+ standard-+     ds2002          1     FAILED      1:0 
+10172726_5.+      batch                ds2002          1     FAILED      1:0 
+10172764_1   process_b+ standard-+     ds2002          1     FAILED      1:0 
+10172764_1.+      batch                ds2002          1     FAILED      1:0 
+10172764_2   process_b+ standard-+     ds2002          1     FAILED      1:0 
+10172764_2.+      batch                ds2002          1     FAILED      1:0 
+10172764_3   process_b+ standard-+     ds2002          1     FAILED      1:0 
+10172764_3.+      batch                ds2002          1     FAILED      1:0 
+10172764_4   process_b+ standard-+     ds2002          1     FAILED      1:0 
+10172764_4.+      batch                ds2002          1     FAILED      1:0 
+10172764_5   process_b+ standard-+     ds2002          1     FAILED      1:0 
+10172764_5.+      batch                ds2002          1     FAILED      1:0 
+10172982_1   process_b+ standard-+     ds2002          1     FAILED      1:0 
+10172982_1.+      batch                ds2002          1     FAILED      1:0 
+10172982_2   process_b+ standard-+     ds2002          1     FAILED      1:0 
+10172982_2.+      batch                ds2002          1     FAILED      1:0 
+10172982_3   process_b+ standard-+     ds2002          1     FAILED      1:0 
+10172982_3.+      batch                ds2002          1     FAILED      1:0 
+10172982_4   process_b+ standard-+     ds2002          1     FAILED      1:0 
+10172982_4.+      batch                ds2002          1     FAILED      1:0 
+10172982_5   process_b+ standard-+     ds2002          1     FAILED      1:0 
+10172982_5.+      batch                ds2002          1     FAILED      1:0 
+10173095_1   process_b+ standard-+     ds2002          1  COMPLETED      0:0 
+10173095_1.+      batch                ds2002          1  COMPLETED      0:0 
+10173095_2   process_b+ standard-+     ds2002          1  COMPLETED      0:0 
+10173095_2.+      batch                ds2002          1  COMPLETED      0:0 
+10173095_3   process_b+ standard-+     ds2002          1  COMPLETED      0:0 
+10173095_3.+      batch                ds2002          1  COMPLETED      0:0 
+10173095_4   process_b+ standard-+     ds2002          1  COMPLETED      0:0 
+10173095_4.+      batch                ds2002          1  COMPLETED      0:0 
+10173095_5   process_b+ standard-+     ds2002          1  COMPLETED      0:0 
+10173095_5.+      batch                ds2002          1  COMPLETED      0:0 
+10173123_1   process_b+ standard-+     ds2002          1  COMPLETED      0:0 
+10173123_1.+      batch                ds2002          1  COMPLETED      0:0 
+10173123_2   process_b+ standard-+     ds2002          1  COMPLETED      0:0 
+10173123_2.+      batch                ds2002          1  COMPLETED      0:0 
+10173123_3   process_b+ standard-+     ds2002          1  COMPLETED      0:0 
+10173123_3.+      batch                ds2002          1  COMPLETED      0:0 
+10173123_4   process_b+ standard-+     ds2002          1  COMPLETED      0:0 
+10173123_4.+      batch                ds2002          1  COMPLETED      0:0 
+10173123_5   process_b+ standard-+     ds2002          1  COMPLETED      0:0 
+10173123_5.+      batch                ds2002          1  COMPLETED      0:0 
