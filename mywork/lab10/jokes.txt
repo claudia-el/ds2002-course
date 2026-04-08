@@ -1,0 +1,121 @@
+Running job array task ID: 10
+Hello from task 10!
+ _______________________________________
+/ "Elves and Dragons!" I says to him.   \
+| "Cabbages and potatoes are better for |
+| you and me."                          |
+|                                       |
+\ -- J. R. R. Tolkien                   /
+ ---------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+Running job array task ID: 1
+Hello from task 1!
+ ____________________________________
+/ You will gain money by a fattening \
+\ action.                            /
+ ------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+Running job array task ID: 2
+Hello from task 2!
+ ________________________________________
+/ You will become rich and famous unless \
+\ you don't.                             /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+Running job array task ID: 3
+Hello from task 3!
+ ________________________________________
+/ Caution: breathing may be hazardous to \
+\ your health.                           /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+Running job array task ID: 4
+Hello from task 4!
+ _________________________________________
+/ You will be recognized and honored as a \
+\ community leader.                       /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+Running job array task ID: 5
+Hello from task 5!
+ _________________________________________
+/ The holy passion of Friendship is of so \
+| sweet and steady and loyal and enduring |
+| a nature that it will last through a    |
+| whole lifetime, if not asked to lend    |
+| money.                                  |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+Running job array task ID: 6
+Hello from task 6!
+ _____________________________________
+< You will be divorced within a year. >
+ -------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+Running job array task ID: 7
+Hello from task 7!
+ _________________________________________
+/ You'll feel devilish tonight. Toss      \
+| dynamite caps under a flamenco dancer's |
+\ heel.                                   /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+Running job array task ID: 8
+Hello from task 8!
+ ________________________________________
+/ Beauty and harmony are as necessary to \
+\ you as the very breath of life.        /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+Running job array task ID: 9
+Hello from task 9!
+ ________________________________________
+/ Lay on, MacDuff, and curs'd be him who \
+| first cries, "Hold, enough!".          |
+|                                        |
+\ -- Shakespeare                         /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
